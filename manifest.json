@@ -1,14 +1,21 @@
 {
-  "name": "MeeBadi Dictionary",
+  "name": "Meebadi Dictionary",
   "short_name": "Dictionary",
-  "start_url": "/",
+  "start_url": "https://meebadidictionary.blogspot.com/",
+  "scope": "https://meebadidictionary.blogspot.com/",
   "display": "standalone",
-  "background_color": "#4CAF50",
-  "theme_color": "#4CAF50",
+  "background_color": "#000000",
+  "theme_color": "#ffcc00",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://meebadidictionary.blogspot.com/favicon.ico",
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2991/2991148.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
